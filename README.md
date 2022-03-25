@@ -1,4 +1,7 @@
-# curso-alura-arquitetura-css
-Projeto feito para o curso de Arquitetura CSS para Alura
+# fruto-e-fruta
 
-Protótipo: https://www.figma.com/file/0gMF5BPgplPYqQA6Om1T1sk9/alura-bootstrap?node-id=0%3A1
+Projeto criado durante o curso Arquitetura CSS: descomplicando os problemas da Alura, dentro da [formaçao Front-end](https://cursos.alura.com.br/formacao-front-end).
+
+Você pode ver o resultado final [aqui](https://github.com/JessicaLorenzon/fruta-e-fruto).
+
+![fruta-e-fruto](fruta-e-fruto.png)
